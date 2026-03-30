@@ -1,6 +1,6 @@
 using System.Drawing.Text;
 
-namespace lab1
+namespace Task4
 {
     public partial class Form1 : Form
     {
@@ -29,6 +29,16 @@ namespace lab1
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
         {
 
         }
