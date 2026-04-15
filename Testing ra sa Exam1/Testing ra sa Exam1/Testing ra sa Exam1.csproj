@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net9.0-windows7.0</TargetFramework>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>Testing_ra_sa_Exam1</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
